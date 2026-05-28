@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "Audio Enhance policy"
 permalink: /audioenhance-policy
 ---
